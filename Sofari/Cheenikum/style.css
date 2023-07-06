@@ -1,0 +1,182 @@
+/* Common Elements */
+
+body {
+    background-color: #e2c5b9ab;
+}
+
+
+#navbar-icon {
+    font-family: 'Ysabeau Office', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    
+}
+
+.fs-4{
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+    font-size: 50px;
+}
+
+.nav-link{
+    color: white;
+    background-color:#495868;
+}
+
+.nav-link:hover{
+    background-color:white ;
+    color: black;
+}
+
+.nav-pills .nav-link.active{
+    background-color: black;
+}
+
+
+/* hero section */
+.text-black{
+    display: flex;
+    justify-content: center;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 5rem;
+}
+
+.mx-auto{
+    display: flex;
+    justify-content: center;
+    font-family: 'Ysabeau Office', sans-serif;
+    
+}
+
+/* Features band */
+
+
+
+.g-4{
+    height: 550px;
+
+}
+
+
+/* Product Page */
+
+h1{
+    font-size: 60px;
+}
+
+.products{
+    border-radius: 10px;
+    background-color: black;
+}
+.col img{
+    border-radius: 5px;
+}
+
+.card-body{
+    border-radius: 10px;
+}
+
+.card shadow-sm{
+    width:100%; 
+    height:100%; 
+    fill:#55595c;
+    border-radius: 10px;
+   
+}
+
+.shadow-sm {
+    height: 380px;
+}
+
+.cardshadow-sm img{
+    width:100%; 
+    height:225;
+    border-radius: 10px;
+}
+
+/* footer */
+
+#footer{
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: 'Ysabeau Office', sans-serif;
+    
+}
+
+/* about us */
+
+.aboutus{
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+}
+
+p{
+    margin-right: 250px;
+    margin-left: 250px;
+    font-size: 22px;
+    font-family: 'Ysabeau Office', sans-serif;
+    text-align: justify;
+
+}
+
+.column {
+    margin-left: 150px;
+    float:left;
+    width: 33.33%;
+    padding: 5px;
+    
+  }
+
+/* pricing */
+h1{
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    color: black;
+    font-family: 'Ysabeau Office', sans-serif;
+    text-align: center;
+    
+}
+
+.pricing-card-title{
+    font-size: large;
+
+}
+
+.card-body{
+    height: 250px;
+}
+
+.button{
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 1.24rem;
+    padding: 11px;
+    width: 100%;
+    background-color: #c59c7b;
+    border-width: 0px;
+}
+
+.button:hover{
+    background-color:#77342c;
+    color: white;
+
+}
+
+.py-3{
+    background-color:#495868;
+    color: white;
+}
+
+.py-4{
+    background-color: #8c9791;
+    font-family: 'Ysabeau Office', sans-serif;
+    
+}
+
+.card-body{
+    font-family: 'Ysabeau Office', sans-serif;
+}
