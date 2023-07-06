@@ -1,0 +1,10 @@
+body {
+    height: 100vh;
+}
+
+
+.background-img {
+    float: inline-start;
+    z-index: 0;
+    width: 100%;
+}
